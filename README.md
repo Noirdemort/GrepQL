@@ -13,10 +13,11 @@ A command-line utility to grep through SQL. i.e.: grepql  --db=people --search=t
 export MySQL_USER=root
 export MySQL_SECRET=password
 
-python grepql.py --db=product --search=electronic
+python grepql.py --db=product --search=ha
 
 ```
 
+![Output](output.png)
 
 -----
 
